@@ -1,0 +1,16 @@
+{
+  "order": [
+    {
+      "name": "Bonda",
+      "price": 30,
+      "qty": 2,
+      "id": 2
+    },
+    {
+      "name": "Chapati",
+      "price": 50,
+      "qty": 2,
+      "id": 3
+    }
+  ]
+}
